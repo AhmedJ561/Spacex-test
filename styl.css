@@ -1,0 +1,42 @@
+body
+{
+    text-align:center;
+    font-family:Orbitron;
+    color:rgb(59, 10, 164);
+    margin:0;
+}
+#hero
+{
+    background-image:url("pexels-samphan-korwong-6961824\ \(2160p\)\ [MConverter.eu].webp");
+    background-size: cover;
+    height:500px;
+    margin-bottom: 50px;
+}
+.Title
+{
+    color:rgb(59, 10, 164);
+    margin: 10px auto;
+    font-size: large;
+    text-shadow: 0px 0px 1px black;
+}
+.btn
+{
+    font-size: large;
+    color:rgb(59, 10, 164);
+    background:rgb(240, 243, 244);
+    border:none;
+    border-radius:5px;
+    font-weight: bolder;
+    width:10%;
+    height: 50px;
+    font-family:Orbitron;
+}
+.spn
+{
+    border-bottom: 5px solid white;
+}
+#spcx
+{
+    margin-top: 50px;
+width:250px;
+}
